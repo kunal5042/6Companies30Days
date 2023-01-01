@@ -1,7 +1,7 @@
 # Question: https://leetcode.com/problems/shortest-unsorted-continuous-subarray/
 # Medium
 from typing import Optional, List
-
+from collections import defaultdict
 class Solution:
     # O(n * log(n)) time and O(n) space
     def findUnsortedSubarray(self, nums: List[int]) -> int:
