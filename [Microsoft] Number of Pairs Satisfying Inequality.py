@@ -1,5 +1,5 @@
 # Question: https://leetcode.com/problems/number-of-pairs-satisfying-inequality/
-# Medium
+# Hard
 from typing import Optional, List
 
 from sortedcontainers import SortedList
