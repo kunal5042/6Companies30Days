@@ -1,4 +1,5 @@
 # Question: Question: https://leetcode.com/problems/max-area-of-island/
+# Medium
 # Keep Track Of Length
 from typing import Optional, List
 
