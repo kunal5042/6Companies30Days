@@ -2,9 +2,6 @@
 # Medium
 # Keep Track Of Length
 from typing import Optional, List
-
-from typing import Optional, List
-
 from collections import deque
 class Solution:
     def maxAreaOfIsland(self, grid: List[List[int]]) -> int:
