@@ -58,3 +58,4 @@
 |54|Medium|Flipkart|[ New 21 Game](https://leetcode.com/problems/new-21-game)|[Answer](https://github.com/kunal5042/6Companies30Days/blob/main/[Flipkart]%20New%2021%20Game.py)|
 |55|Medium|Flipkart|[ Shopping Offers](https://leetcode.com/problems/shopping-offers)|[Answer](https://github.com/kunal5042/6Companies30Days/blob/main/[Flipkart]%20Shopping%20Offers.py)|
 |56|Medium|Flipkart|[ Remove Zero Sum Consecutive Nodes from Linked List](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list)|[Answer](https://github.com/kunal5042/6Companies30Days/blob/main/[Flipkart]%20Remove%20Zero%20Sum%20Consecutive%20Nodes%20from%20Linked%20List.py)|
+|57|Medium|Google|[ Maximum Compatibility Score Sum](https://leetcode.com/problems/maximum-compatibility-score-sum)|[Answer](https://github.com/kunal5042/6Companies30Days/blob/main/[Google]%20Maximum%20Compatibility%20Score%20Sum.py)|
