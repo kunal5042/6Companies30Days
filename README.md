@@ -60,4 +60,5 @@
 |56|Medium|Flipkart|[ Remove Zero Sum Consecutive Nodes from Linked List](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list)|[Answer](https://github.com/kunal5042/6Companies30Days/blob/main/[Flipkart]%20Remove%20Zero%20Sum%20Consecutive%20Nodes%20from%20Linked%20List.py)|
 |57|Medium|Google|[ Maximum Compatibility Score Sum](https://leetcode.com/problems/maximum-compatibility-score-sum)|[Answer](https://github.com/kunal5042/6Companies30Days/blob/main/[Google]%20Maximum%20Compatibility%20Score%20Sum.py)|
 |58|Medium|Google|[ Strictly Palindromic Number](https://leetcode.com/problems/strictly-palindromic-number)|[Answer](https://github.com/kunal5042/6Companies30Days/blob/main/[Google]%20Strictly%20Palindromic%20Number.py)|
-|59|Hard|Google|[ Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water)|[Answer](https://github.com/kunal5042/6Companies30Days/blob/main/[Google]%20Swim%20in%20Rising%20Water.py)|
+|59|Medium|Google|[ Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses)|[Answer](https://github.com/kunal5042/6Companies30Days/blob/main/[Google]%20Restore%20IP%20Addresses.py)|
+|60|Hard|Google|[ Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water)|[Answer](https://github.com/kunal5042/6Companies30Days/blob/main/[Google]%20Swim%20in%20Rising%20Water.py)|
