@@ -61,5 +61,6 @@
 |57|Medium|Google|[ Network Delay Time](https://leetcode.com/problems/network-delay-time)|[Answer](https://github.com/kunal5042/6Companies30Days/blob/main/[Google]%20Network%20Delay%20Time.py)|
 |58|Medium|Google|[ Maximum Compatibility Score Sum](https://leetcode.com/problems/maximum-compatibility-score-sum)|[Answer](https://github.com/kunal5042/6Companies30Days/blob/main/[Google]%20Maximum%20Compatibility%20Score%20Sum.py)|
 |59|Medium|Google|[ Strictly Palindromic Number](https://leetcode.com/problems/strictly-palindromic-number)|[Answer](https://github.com/kunal5042/6Companies30Days/blob/main/[Google]%20Strictly%20Palindromic%20Number.py)|
-|60|Medium|Google|[ Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses)|[Answer](https://github.com/kunal5042/6Companies30Days/blob/main/[Google]%20Restore%20IP%20Addresses.py)|
-|61|Hard|Google|[ Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water)|[Answer](https://github.com/kunal5042/6Companies30Days/blob/main/[Google]%20Swim%20in%20Rising%20Water.py)|
+|60|Hard|Google|[ Maximum Good People Based on Statements](https://leetcode.com/problems/maximum-good-people-based-on-statements)|[Answer](https://github.com/kunal5042/6Companies30Days/blob/main/[Google]%20Maximum%20Good%20People%20Based%20on%20Statements.py)|
+|61|Medium|Google|[ Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses)|[Answer](https://github.com/kunal5042/6Companies30Days/blob/main/[Google]%20Restore%20IP%20Addresses.py)|
+|62|Hard|Google|[ Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water)|[Answer](https://github.com/kunal5042/6Companies30Days/blob/main/[Google]%20Swim%20in%20Rising%20Water.py)|
