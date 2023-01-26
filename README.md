@@ -66,5 +66,6 @@
 |62|Medium|Google|[ Maximum Number of Coins You Can Get](https://leetcode.com/problems/maximum-number-of-coins-you-can-get)|[Answer](https://github.com/kunal5042/6Companies30Days/blob/main/[Google]%20Maximum%20Number%20of%20Coins%20You%20Can%20Get.py)|
 |63|Medium|Google|[ K Divisible Elements Subarrays](https://leetcode.com/problems/k-divisible-elements-subarrays)|[Answer](https://github.com/kunal5042/6Companies30Days/blob/main/[Google]%20K%20Divisible%20Elements%20Subarrays.py)|
 |64|Medium|Google|[ Matrix Block Sum](https://leetcode.com/problems/matrix-block-sum)|[Answer](https://github.com/kunal5042/6Companies30Days/blob/main/[Google]%20Matrix%20Block%20Sum.py)|
-|65|Hard|Google|[ Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water)|[Answer](https://github.com/kunal5042/6Companies30Days/blob/main/[Google]%20Swim%20in%20Rising%20Water.py)|
-|66|Medium|Google|[ Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight)|[Answer](https://github.com/kunal5042/6Companies30Days/blob/main/[Google]%20Random%20Pick%20with%20Weight.py)|
+|65|Hard|Google|[ Distinct Echo Substrings](https://leetcode.com/problems/distinct-echo-substrings)|[Answer](https://github.com/kunal5042/6Companies30Days/blob/main/[Google]%20Distinct%20Echo%20Substrings.py)|
+|66|Hard|Google|[ Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water)|[Answer](https://github.com/kunal5042/6Companies30Days/blob/main/[Google]%20Swim%20in%20Rising%20Water.py)|
+|67|Medium|Google|[ Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight)|[Answer](https://github.com/kunal5042/6Companies30Days/blob/main/[Google]%20Random%20Pick%20with%20Weight.py)|
