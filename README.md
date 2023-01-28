@@ -68,5 +68,6 @@
 |64|Medium|Google|[ K Divisible Elements Subarrays](https://leetcode.com/problems/k-divisible-elements-subarrays)|[Answer](https://github.com/kunal5042/6Companies30Days/blob/main/[Google]%20K%20Divisible%20Elements%20Subarrays.py)|
 |65|Medium|Google|[ Matrix Block Sum](https://leetcode.com/problems/matrix-block-sum)|[Answer](https://github.com/kunal5042/6Companies30Days/blob/main/[Google]%20Matrix%20Block%20Sum.py)|
 |66|Hard|Google|[ Distinct Echo Substrings](https://leetcode.com/problems/distinct-echo-substrings)|[Answer](https://github.com/kunal5042/6Companies30Days/blob/main/[Google]%20Distinct%20Echo%20Substrings.py)|
-|67|Hard|Google|[ Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water)|[Answer](https://github.com/kunal5042/6Companies30Days/blob/main/[Google]%20Swim%20in%20Rising%20Water.py)|
-|68|Medium|Google|[ Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight)|[Answer](https://github.com/kunal5042/6Companies30Days/blob/main/[Google]%20Random%20Pick%20with%20Weight.py)|
+|67|Medium|Google|[ Sort an Array](https://leetcode.com/problems/sort-an-array)|[Answer](https://github.com/kunal5042/6Companies30Days/blob/main/[Google]%20Sort%20an%20Array.py)|
+|68|Hard|Google|[ Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water)|[Answer](https://github.com/kunal5042/6Companies30Days/blob/main/[Google]%20Swim%20in%20Rising%20Water.py)|
+|69|Medium|Google|[ Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight)|[Answer](https://github.com/kunal5042/6Companies30Days/blob/main/[Google]%20Random%20Pick%20with%20Weight.py)|
