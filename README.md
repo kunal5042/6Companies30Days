@@ -1,6 +1,6 @@
 [![Active](http://img.shields.io/badge/Status-Active-green.svg)](https://github.com/kunal5042/6Companies30Days)
 [![Generic badge](https://img.shields.io/badge/lang-python-yellow.svg)](https://www.python.org/)
-| Q No.| Difficulty | Company | Question | Solution | 
+| Q No.| Difficulty | Company | Question | My Solution | 
 | :------: | --------- | ----------------- | :--------: | :---------: |
 |01|Medium|Microsoft|[ Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray)|[Answer](https://github.com/kunal5042/6Companies30Days/blob/main/[Microsoft]%20Shortest%20Unsorted%20Continuous%20Subarray.py)|
 |02|Medium|Microsoft|[ Course Schedule](https://leetcode.com/problems/course-schedule)|[Answer](https://github.com/kunal5042/6Companies30Days/blob/main/[Microsoft]%20Course%20Schedule.py)|
