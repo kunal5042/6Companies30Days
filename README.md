@@ -76,3 +76,4 @@
 |72|Medium|Google|[ Sort an Array](https://leetcode.com/problems/sort-an-array)|[Answer](https://github.com/kunal5042/6Companies30Days/blob/main/[Google]%20Sort%20an%20Array.py)|
 |73|Hard|Google|[ Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water)|[Answer](https://github.com/kunal5042/6Companies30Days/blob/main/[Google]%20Swim%20in%20Rising%20Water.py)|
 |74|Medium|Google|[ Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight)|[Answer](https://github.com/kunal5042/6Companies30Days/blob/main/[Google]%20Random%20Pick%20with%20Weight.py)|
+|75|Medium|Amazon|[ Shuffle an Array](https://leetcode.com/problems/shuffle-an-array)|[Answer](https://github.com/kunal5042/6Companies30Days/blob/main/[Amazon]%20Shuffle%20an%20Array.py)|
