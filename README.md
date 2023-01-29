@@ -79,4 +79,5 @@
 |75|Medium|Amazon|[ Split a String Into the Max Number of Unique Substrings](https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings)|[Answer](https://github.com/kunal5042/6Companies30Days/blob/main/[Amazon]%20Split%20a%20String%20Into%20the%20Max%20Number%20of%20Unique%20Substrings.py)|
 |76|Medium|Amazon|[ Shuffle an Array](https://leetcode.com/problems/shuffle-an-array)|[Answer](https://github.com/kunal5042/6Companies30Days/blob/main/[Amazon]%20Shuffle%20an%20Array.py)|
 |77|Medium|Amazon|[ Tweet Counts Per Frequency](https://leetcode.com/problems/tweet-counts-per-frequency)|[Answer](https://github.com/kunal5042/6Companies30Days/blob/main/[Amazon]%20Tweet%20Counts%20Per%20Frequency.py)|
-|78| |Amazon|[ Medium](https://leetcode.com/problems/cheapest-flights-within-k-stops)|[Answer](https://github.com/kunal5042/6Companies30Days/blob/main/[Amazon]%20Medium.py)|
+|78|Medium|Amazon|[ Maximum Sum of an Hourglass](https://leetcode.com/problems/maximum-sum-of-an-hourglass)|[Answer](https://github.com/kunal5042/6Companies30Days/blob/main/[Amazon]%20Maximum%20Sum%20of%20an%20Hourglass.py)|
+|79| |Amazon|[ Medium](https://leetcode.com/problems/cheapest-flights-within-k-stops)|[Answer](https://github.com/kunal5042/6Companies30Days/blob/main/[Amazon]%20Medium.py)|
