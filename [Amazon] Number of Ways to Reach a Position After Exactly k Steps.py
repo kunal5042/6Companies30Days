@@ -1,6 +1,7 @@
 # Question: https://leetcode.com/problems/number-of-ways-to-reach-a-position-after-exactly-k-steps/
 # Medium
 
+from functools import cache
 
 class Solution:
     def numberOfWays(self, startPos: int, endPos: int, k: int) -> int:
